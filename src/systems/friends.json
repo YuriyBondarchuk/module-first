@@ -1,0 +1,29 @@
+{
+    "friends": [
+        {
+            "avatar": "https://cdn-icons-png.flaticon.com/512/1077/1077012.png",
+            "name": "Bob",
+            "isOnline": "false"
+        },
+        {
+            "avatar": "https://cdn-icons-png.flaticon.com/512/1077/1077013.png",
+            "name": "Janny",
+            "isOnline": "false"
+        },
+        {
+            "avatar": "https://cdn-icons-png.flaticon.com/512/1077/1077014.png",
+            "name": "Joseph",
+            "isOnline": "true"
+        },
+        {
+            "avatar": "https://cdn-icons-png.flaticon.com/512/1077/1077015.png",
+            "name": "Ali",
+            "isOnline": "false"
+        },
+        {
+            "avatar": "https://cdn-icons-png.flaticon.com/512/1077/1077016.png",
+            "name": "Roland",
+            "isOnline": "true"
+        }
+    ]
+}

@@ -3,27 +3,27 @@
         {
             "avatar": "https://cdn-icons-png.flaticon.com/512/1077/1077012.png",
             "name": "Bob",
-            "isOnline": "false"
+            "isOnline": false
         },
         {
             "avatar": "https://cdn-icons-png.flaticon.com/512/1077/1077013.png",
             "name": "Janny",
-            "isOnline": "false"
+            "isOnline": false
         },
         {
             "avatar": "https://cdn-icons-png.flaticon.com/512/1077/1077014.png",
             "name": "Joseph",
-            "isOnline": "true"
+            "isOnline": true
         },
         {
             "avatar": "https://cdn-icons-png.flaticon.com/512/1077/1077015.png",
             "name": "Ali",
-            "isOnline": "false"
+            "isOnline": false
         },
         {
             "avatar": "https://cdn-icons-png.flaticon.com/512/1077/1077016.png",
             "name": "Roland",
-            "isOnline": "true"
+            "isOnline": true
         }
     ]
 }

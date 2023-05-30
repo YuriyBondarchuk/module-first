@@ -1,0 +1,12 @@
+tbody {
+    tr {
+        &:nth-child(even) {
+            background-color: #858585;
+            color: white;
+        }
+        td {
+            padding: 15px;
+            text-align: center;
+        }
+    }
+}

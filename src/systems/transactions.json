@@ -1,0 +1,28 @@
+{
+    "transactions": [
+        {
+            "type": "Invoice",
+            "id": 12,
+            "currency": "Usdt",
+            "amount" : "125,34"
+        },
+        {
+            "type": "Deposit",
+            "id": 14,
+            "currency": "UAH",
+            "amount" : "12500"
+        },
+        {
+            "type": "Payment",
+            "id": 16,
+            "currency": "AUD",
+            "amount" : "2500,94"
+        },
+        {
+            "type": "Withdrawal",
+            "id": 18,
+            "currency": "EUR",
+            "amount" : "500"
+        }
+    ]
+}

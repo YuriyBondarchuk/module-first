@@ -1,0 +1,13 @@
+.transaction-history {
+    width: 100%;
+    thead{
+        tr {
+            border-bottom: 1px solid gray;
+            th {
+                background-color: aqua;
+                font-weight: 900;
+                padding: 15px;
+            }
+        }
+    }
+}

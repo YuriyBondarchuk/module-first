@@ -1,6 +1,7 @@
 import './Statistics.scss';
 
 interface StatisticsProps {
+    title: string;
     stat: {
         docx: string;
         pdf: string;
@@ -17,7 +18,7 @@ function Statistics(props: StatisticsProps) {
     return (
         <div className="statistics">
             <div className="statistics-top">
-                <p className="statistics-title">Upload Status</p>
+                <p className="statistics-title">{props.title}</p>
             </div>
             <div className="statistics-bottom">
                 <div className="statistics-docx statistics-item">

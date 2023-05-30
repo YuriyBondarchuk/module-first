@@ -15,7 +15,7 @@ function App() {
                 tag={user.tag}
                 stats={user.stats}
             />
-            <Statistics stat={data.stats} />
+            <Statistics title="New Statisctic" stat={data.stats} />
         </div>
     );
 }
